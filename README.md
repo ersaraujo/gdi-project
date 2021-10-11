@@ -1,1 +1,1 @@
-# gadi-project
+# gdi-project
